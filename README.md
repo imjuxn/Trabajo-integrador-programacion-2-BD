@@ -7,9 +7,8 @@
 - `Base de datos/datos.sql` — datos de prueba (inserts).
 - `Integración programación-BD/` — código fuente Java (packages: config, entities, dao, dao.impl, service, main).
 - `UML/` — diagrama UML (PlantUML y PNG).
-- `informe/Informe_Trabajo_Integrador.pdf` — informe final (6–8 páginas).
+- `informe/Integración Programación 2.pdf` — informe final.
 - `video/demostracion.mp4` — video de 10–15 minutos.
-- `docs/` — capturas de pantalla usadas en el informe/video.
 
 ## Requisitos
 - Java JDK 21 (o 11)  
