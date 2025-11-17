@@ -3,8 +3,8 @@
 **Dominio:** sistema de gestión de seguros vehiculares (Clientes, Vehículos, Seguros)
 
 ## Contenido del repositorio
-- `tablas.sql` — script para crear la base de datos y tablas.
-- `datos.sql` — datos de prueba (inserts).
+- `Base de datos/tablas.sql` — script para crear la base de datos y tablas.
+- `Base de datos/datos.sql` — datos de prueba (inserts).
 - `Integración programación-BD/` — código fuente Java (packages: config, entities, dao, dao.impl, service, main).
 - `UML/` — diagrama UML (PlantUML y PNG).
 - `informe/Informe_Trabajo_Integrador.pdf` — informe final (6–8 páginas).
