@@ -5,8 +5,8 @@
 ## Contenido del repositorio
 - `tablas.sql` — script para crear la base de datos y tablas.
 - `datos.sql` — datos de prueba (inserts).
-- `src/` — código fuente Java (packages: config, entities, dao, dao.impl, service, main).
-- `uml/` — diagrama UML (PlantUML y PNG).
+- `Integración programación-BD/` — código fuente Java (packages: config, entities, dao, dao.impl, service, main).
+- `UML/` — diagrama UML (PlantUML y PNG).
 - `informe/Informe_Trabajo_Integrador.pdf` — informe final (6–8 páginas).
 - `video/demostracion.mp4` — video de 10–15 minutos.
 - `docs/` — capturas de pantalla usadas en el informe/video.
