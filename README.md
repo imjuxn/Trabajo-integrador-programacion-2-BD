@@ -9,7 +9,9 @@
 - `Integración programación-BD/` — código fuente Java (packages: config, entities, dao, dao.impl, service, main).
 - `UML/` — diagrama UML (PlantUML y PNG).
 - `informe/Integración Programación 2.pdf` — informe final.
-- `video/demostracion.mp4` — video de 10–15 minutos.
+
+## Link de vídeo del trabajo integrador Programación 2
+-  https://youtu.be/vDf9myfkFWc
 
 ## Requisitos
 - Java JDK 21 (o 11)  
